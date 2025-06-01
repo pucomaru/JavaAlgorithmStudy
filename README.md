@@ -17,5 +17,5 @@
 - 푼 문제 주소는 본인 폴더의 `README.md` 표에 작성  
   - 예시:
     ```
-    [A+B](https://www.acmicpc.net/problem/1000)
+    [문제 제목](https://www.acmicpc.net/problem/1000)
     ```
