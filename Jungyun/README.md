@@ -1,5 +1,5 @@
 |   날짜   |                          1                          |                       2                        |                        3                        |  4  |  5  |  6  |
 | :------: |:---------------------------------------------------:|:----------------------------------------------:|:-----------------------------------------------:| :-: | :-: | :-: |
-| Week1    | [복호화](https://https://www.acmicpc.net/problem/9046) | [숫자의 합](https://www.acmicpc.net/problem/11720) | [최소, 최대](https://www.acmicpc.net/problem/10818) |      |      |      |
+| Week1    | [복호화](https://https://www.acmicpc.net/problem/9046) | [숫자의 합](https://www.acmicpc.net/problem/11720) | [최소, 최대](https://www.acmicpc.net/problem/10818) | [     |  [구간합](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZTP1QzqXnbHBIRD&contestProbId=AZTP5XoqXuDHBIRD&probBoxId=AZTP1QzqXnfHBIRD&type=USER&problemBoxTitle=%2802.05%29+List1-1&problemBoxCnt=4)    |      |
 | Week2    |                                                     |                                                |                                                 |      |      |      |
 | Week3    |                                                     |                                                |                                                 |      |      |      |
